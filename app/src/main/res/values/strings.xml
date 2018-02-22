@@ -1,0 +1,9 @@
+<resources>
+    <string name="txt_welcome">Welcome to the app for config multi app by gradle</string>
+    <string name="txt_title_login">Login</string>
+    <string name="txt_user_name">User name</string>
+    <string name="txt_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="txt_dont_have_account_register">Don\'t have an account? register</string>
+
+</resources>

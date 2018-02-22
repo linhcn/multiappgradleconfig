@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryTwo">#b53f3f</color>
+    <color name="colorPrimaryDarkTwo">#9f3030</color>
+    <color name="colorAccentTwo">#ff7640</color>
+    <color name="colorAction">#16289e</color>
+    <color name="backgroundFlash">#d48eb2</color>
+</resources>
